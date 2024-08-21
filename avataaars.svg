@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 264 280">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask-10);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-7, .cls-10 {
+        fill: #000;
+      }
+
+      .cls-2, .cls-5 {
+        fill-opacity: .2;
+      }
+
+      .cls-18 {
+        mask: url(#mask);
+      }
+
+      .cls-3 {
+        fill: #d0c6ac;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9, .cls-10, .cls-16, .cls-17 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill-opacity: .6;
+      }
+
+      .cls-6 {
+        fill: #ff4f6d;
+      }
+
+      .cls-7 {
+        fill-opacity: .1;
+      }
+
+      .cls-8, .cls-15 {
+        fill: #e6e6e6;
+      }
+
+      .cls-19 {
+        opacity: .6;
+      }
+
+      .cls-9, .cls-13 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        fill-opacity: .7;
+      }
+
+      .cls-11 {
+        fill: #2c1b18;
+      }
+
+      .cls-12 {
+        fill: #293e53;
+      }
+
+      .cls-14 {
+        fill: #edb98a;
+      }
+
+      .cls-16 {
+        fill: #1f3140;
+      }
+
+      .cls-20 {
+        mask: url(#mask-3);
+      }
+
+      .cls-21 {
+        mask: url(#mask-2);
+      }
+
+      .cls-22 {
+        mask: url(#mask-5);
+      }
+
+      .cls-23 {
+        mask: url(#mask-4);
+      }
+
+      .cls-24 {
+        mask: url(#mask-1);
+      }
+
+      .cls-25 {
+        mask: url(#mask-7);
+      }
+
+      .cls-26 {
+        mask: url(#mask-6);
+      }
+
+      .cls-27 {
+        mask: url(#mask-8);
+      }
+
+      .cls-28 {
+        mask: url(#mask-9);
+      }
+
+      .cls-17 {
+        fill: #331b0c;
+      }
+    </style>
+    <mask id="mask" x="12" y="40" width="240" height="240" maskUnits="userSpaceOnUse">
+      <g id="react-mask-4">
+        <circle id="react-path-1-2" data-name="react-path-1" class="cls-13" cx="132" cy="160" r="120"/>
+      </g>
+    </mask>
+    <mask id="mask-1" x="-1" y="0" width="297" height="316" maskUnits="userSpaceOnUse">
+      <g id="react-mask-5">
+        <path id="react-path-2" class="cls-9" d="M12,160c0,66.3,53.7,120,120,120s120-53.7,120-120h12V0H0v160h12Z"/>
+      </g>
+    </mask>
+    <mask id="mask-2" x="32" y="36" width="264" height="280" maskUnits="userSpaceOnUse">
+      <g id="react-mask-6">
+        <path id="react-path-3-2" data-name="react-path-3" class="cls-9" d="M156,180.6v18.4h4c39.8,0,72,32.2,72,72v9H32v-9c0-39.8,32.2-72,72-72h4v-18.4c-17.2-8.2-29.6-24.9-31.7-44.7-5.8-.8-10.3-5.8-10.3-11.9v-14c0-5.9,4.3-10.9,10-11.8v-6.2h0c0-30.9,25.1-56,56-56h0c30.9,0,56,25.1,56,56v6.2c5.7,1,10,5.9,10,11.8v14c0,6.1-4.5,11.1-10.3,11.9-2.1,19.8-14.5,36.5-31.7,44.7Z"/>
+      </g>
+    </mask>
+    <mask id="mask-3" x="32" y="36" width="200" height="244" maskUnits="userSpaceOnUse">
+      <g id="react-mask-6-2" data-name="react-mask-6">
+        <path id="react-path-3-3" data-name="react-path-3" class="cls-9" d="M156,180.6v18.4h4c39.8,0,72,32.2,72,72v9H32v-9c0-39.8,32.2-72,72-72h4v-18.4c-17.2-8.2-29.6-24.9-31.7-44.7-5.8-.8-10.3-5.8-10.3-11.9v-14c0-5.9,4.3-10.9,10-11.8v-6.2h0c0-30.9,25.1-56,56-56h0c30.9,0,56,25.1,56,56v6.2c5.7,1,10,5.9,10,11.8v14c0,6.1-4.5,11.1-10.3,11.9-2.1,19.8-14.5,36.5-31.7,44.7Z"/>
+      </g>
+    </mask>
+    <mask id="mask-4" x="0" y="170" width="264" height="110" maskUnits="userSpaceOnUse">
+      <g id="react-mask-476">
+        <path id="react-path-475-2" data-name="react-path-475" class="cls-9" d="M166,199.3c37,3,66,34,66,71.8v8.9H32v-8.9c0-38.1,29.6-69.3,67-71.8,0,.4,0,.7,0,1.1,0,11.9,15,21.5,33.5,21.5s33.5-9.6,33.5-21.5,0-.7,0-1.1Z"/>
+      </g>
+    </mask>
+    <mask id="mask-5" x="32" y="174.9" width="200" height="105.1" maskUnits="userSpaceOnUse">
+      <g id="react-mask-476-2" data-name="react-mask-476">
+        <path id="react-path-475-3" data-name="react-path-475" class="cls-9" d="M166,199.3c37,3,66,34,66,71.8v8.9H32v-8.9c0-38.1,29.6-69.3,67-71.8,0,.4,0,.7,0,1.1,0,11.9,15,21.5,33.5,21.5s33.5-9.6,33.5-21.5,0-.7,0-1.1Z"/>
+      </g>
+    </mask>
+    <mask id="mask-6" x="113.1" y="136" width="37.8" height="30" maskUnits="userSpaceOnUse">
+      <g id="react-mask-360">
+        <path id="react-path-359-2" data-name="react-path-359" class="cls-9" d="M113.1,149.1c1.1,9.5,9.1,16.9,18.9,16.9s17.9-7.4,18.9-17c0-.8-.8-2-1.8-2h-34c-1.1,0-2.1,1.2-2,2.1Z"/>
+      </g>
+    </mask>
+    <mask id="mask-7" x="113.1" y="147" width="37.8" height="33" maskUnits="userSpaceOnUse">
+      <g id="react-mask-360-2" data-name="react-mask-360">
+        <path id="react-path-359-3" data-name="react-path-359" class="cls-9" d="M113.1,149.1c1.1,9.5,9.1,16.9,18.9,16.9s17.9-7.4,18.9-17c0-.8-.8-2-1.8-2h-34c-1.1,0-2.1,1.2-2,2.1Z"/>
+      </g>
+    </mask>
+    <mask id="mask-8" x="-1" y="0" width="281" height="316" maskUnits="userSpaceOnUse">
+      <g id="react-mask-275">
+        <rect id="react-path-277" class="cls-13" width="264" height="280"/>
+      </g>
+    </mask>
+    <mask id="mask-9" x="16" y="72" width="264" height="244" maskUnits="userSpaceOnUse">
+      <g id="react-mask-423">
+        <path id="react-path-424-2" data-name="react-path-424" class="cls-9" d="M149.4,170.2c-2.5,2.3-5.2,3.3-8.6,2.6-.6-.1-3-4.5-8.9-4.5s-8.3,4.4-8.9,4.5c-3.4.7-6.1-.3-8.6-2.6-4.7-4.3-8.7-10.3-6.3-16.7,1.2-3.4,3.2-7.1,6.9-8.2,3.9-1.2,9.3,0,13.3-.8,1.3-.3,2.7-.7,3.6-1.5.9.8,2.3,1.2,3.6,1.5,3.9.8,9.4-.4,13.3.8,3.6,1.1,5.6,4.8,6.9,8.2,2.4,6.5-1.6,12.4-6.3,16.7M188.1,98c-3.4,8.4-2.1,18.9-2.7,27.7-.5,7.2-2,17.9-8.4,22.5-3.3,2.4-9.2,6.3-13.4,5.2-2.9-.8-3.2-9.2-7.1-12.3-4.4-3.6-9.8-5.1-15.3-4.9-2.4.1-7.2,0-9.1,1.9-2-1.8-6.8-1.8-9.1-1.9-5.5-.2-10.9,1.3-15.3,4.9-3.8,3.1-4.2,11.5-7.1,12.3-4.3,1.1-10.2-2.9-13.4-5.2-6.4-4.6-7.9-15.4-8.4-22.5-.6-8.8.7-19.3-2.7-27.7-1.7,0-.6,16.1-.6,16.1v20.4c0,15.3,9.6,38.2,30.8,46.9,5.2,2.1,16.9,5.6,25.9,5.6s20.7-3.1,25.9-5.3c21.2-8.7,30.7-32,30.8-47.2v-20.4s1.1-16.1-.6-16.1"/>
+      </g>
+    </mask>
+    <mask id="mask-10" x="-1" y="0" width="264" height="280" maskUnits="userSpaceOnUse">
+      <g id="react-mask-274">
+        <path id="react-path-276-2" data-name="react-path-276" class="cls-9" d="M179.1,39.9c-2.8-2.8-6-5.2-9.1-7.6-.7-.5-1.4-1-2.1-1.6-.2-.1-1.7-1.2-1.9-1.7-.5-1-.2-.2-.1-1.4,0-1.5,3.1-5.7.9-6.7-1-.4-2.8.7-3.8,1.1-1.9.7-3.8,1.4-5.7,1.9.9-1.9,2.7-5.6-.6-4.6-2.6.8-5,2.8-7.6,3.7.9-1.4,4.3-5.8,1.2-6.1-1,0-3.8,1.7-4.9,2.1-3.1,1.2-6.3,1.9-9.6,2.5-11.2,2-24.3,1.4-34.7,6.5-8,3.9-15.9,10-20.5,17.8-4.4,7.5-6.1,15.7-7,24.3-.7,6.3-.7,12.8-.4,19.1.1,2.1.3,11.6,3.3,8.7,1.5-1.4,1.5-7.3,1.9-9.2.8-3.9,1.5-7.8,2.7-11.6,2.2-6.7,4.8-13.8,10.3-18.4,3.5-3,6-6.9,9.4-9.9,1.5-1.3.4-1.2,2.8-1,1.6.1,3.3.2,4.9.2,3.8,0,7.6,0,11.4,0,7.6,0,15.3.1,22.9-.3,3.4-.2,6.8-.3,10.2-.6,1.9-.2,5.2-1.4,6.8-.5,1.4.8,2.9,3.6,3.9,4.7,2.4,2.7,5.3,4.7,8.1,6.9,5.9,4.6,8.9,10.3,10.7,17.5,1.8,7.1,1.3,13.7,3.5,20.8.4,1.2,1.4,3.4,2.7,1.5.2-.4.2-2.3.2-3.4,0-4.5,1.1-7.9,1.1-12.5,0-13.8-.5-31.9-10.8-42.4Z"/>
+      </g>
+    </mask>
+  </defs>
+  <g id="Avataaar">
+    <g id="Avataaar_Circle" data-name="Avataaar/Circle">
+      <g>
+        <g id="Circle">
+          <g id="Circle-Background">
+            <circle id="react-path-1" class="cls-15" cx="132" cy="160" r="120"/>
+          </g>
+          <g class="cls-18">
+            <g id="Color_Palette_Blue-01" data-name="Color/Palette/Blue-01">
+              <rect id="_Color" data-name="🖍Color" class="cls-12" x="12" y="40" width="240" height="240"/>
+            </g>
+          </g>
+        </g>
+        <g class="cls-24">
+          <g id="Avataaar-2" data-name="Avataaar">
+            <g id="Body">
+              <path id="react-path-3" class="cls-3" d="M156,180.6v18.4h4c39.8,0,72,32.2,72,72v9H32v-9c0-39.8,32.2-72,72-72h4v-18.4c-17.2-8.2-29.6-24.9-31.7-44.7-5.8-.8-10.3-5.8-10.3-11.9v-14c0-5.9,4.3-10.9,10-11.8v-6.2h0c0-30.9,25.1-56,56-56h0c30.9,0,56,25.1,56,56v6.2c5.7,1,10,5.9,10,11.8v14c0,6.1-4.5,11.1-10.3,11.9-2.1,19.8-14.5,36.5-31.7,44.7Z"/>
+              <g class="cls-21">
+                <g id="Skin_-03-Brown" data-name="Skin/👶🏽-03-Brown">
+                  <g id="Color">
+                    <rect class="cls-14" x="32" y="36" width="264" height="280"/>
+                  </g>
+                </g>
+              </g>
+              <g class="cls-20">
+                <path id="Neck-Shadow" class="cls-7" d="M188,115v23c0,30.9-25.1,56-56,56s-56-25.1-56-56v-23,15c0,30.9,25.1,56,56,56s56-25.1,56-56v-15Z"/>
+              </g>
+            </g>
+            <g id="Clothing_Shirt-Crew-Neck" data-name="Clothing/Shirt-Crew-Neck">
+              <g id="Clothes">
+                <path id="react-path-475" class="cls-8" d="M166,199.3c37,3,66,34,66,71.8v8.9H32v-8.9c0-38.1,29.6-69.3,67-71.8,0,.4,0,.7,0,1.1,0,11.9,15,21.5,33.5,21.5s33.5-9.6,33.5-21.5,0-.7,0-1.1Z"/>
+              </g>
+              <g class="cls-23">
+                <g id="Color_Palette_Gray-01" data-name="Color/Palette/Gray-01">
+                  <rect id="_Color-2" data-name="🖍Color" class="cls-13" y="170" width="264" height="110"/>
+                </g>
+              </g>
+              <g class="cls-22">
+                <g id="Shadowy" class="cls-19">
+                  <g id="Hola-_" data-name="Hola-👋🏼">
+                    <ellipse class="cls-2" cx="132.5" cy="201.8" rx="39.6" ry="26.9"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Face">
+              <g id="Mouth_Smile" data-name="Mouth/Smile">
+                <g id="Mouth">
+                  <path id="react-path-359" class="cls-10" d="M113.1,149.1c1.1,9.5,9.1,16.9,18.9,16.9s17.9-7.4,18.9-17c0-.8-.8-2-1.8-2h-34c-1.1,0-2.1,1.2-2,2.1Z"/>
+                </g>
+                <g class="cls-26">
+                  <rect id="Teeth" class="cls-13" x="117" y="136" width="31" height="16" rx="5" ry="5"/>
+                </g>
+                <g class="cls-25">
+                  <g id="Tongue">
+                    <g>
+                      <circle class="cls-6" cx="127" cy="169" r="11"/>
+                      <circle class="cls-6" cx="137" cy="169" r="11"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Nose_Default" data-name="Nose/Default">
+                <path id="Nose" class="cls-5" d="M120,130c0,4.4,5.4,8,12,8h0c6.6,0,12-3.6,12-8"/>
+              </g>
+              <g id="Eyes_Happy-_" data-name="Eyes/Happy-😁">
+                <path id="Squint" class="cls-4" d="M92.2,112.4c1.8-3.8,6-6.4,10.8-6.4s9,2.6,10.8,6.4c.6,1.1-.2,2-1,1.4-2.5-2.1-5.9-3.4-9.8-3.4s-7.1,1.2-9.6,3.2c-.9.7-1.8,0-1.3-1.1Z"/>
+                <path id="Squint-2" data-name="Squint" class="cls-4" d="M150.2,112.4c1.8-3.8,6-6.4,10.8-6.4s9,2.6,10.8,6.4c.6,1.1-.2,2-1,1.4-2.5-2.1-5.9-3.4-9.8-3.4s-7.1,1.2-9.6,3.2c-.9.7-1.8,0-1.3-1.1Z"/>
+              </g>
+              <g id="Eyebrow_Natural_Default-Natural" data-name="Eyebrow/Natural/Default-Natural">
+                <path id="Eyebrow" class="cls-4" d="M102.5,88.1c-5.8.3-15.2,4.5-15,10.3,0,.2.3.3.4.1,2.8-3,22.3-5.9,29.2-4.4.6.1,1.1-.5.7-.9-3.4-3.8-10.2-5.4-15.4-5.2"/>
+                <path id="Eyebrow-2" data-name="Eyebrow" class="cls-4" d="M162.5,88.1c5.8.3,15.2,4.5,15,10.3,0,.2-.3.3-.4.1-2.8-3-22.3-5.9-29.2-4.4-.6.1-1.1-.5-.7-.9,3.4-3.8,10.2-5.4,15.4-5.2"/>
+              </g>
+            </g>
+            <g id="Top">
+              <g class="cls-27">
+                <g id="Top_Short-Hair_Short-Flat" data-name="Top/Short-Hair/Short-Flat">
+                  <g>
+                    <g id="Facial-Hair_Beard-Light" data-name="Facial-Hair/Beard-Light">
+                      <g id="Lite-Beard">
+                        <path id="react-path-424" class="cls-17" d="M149.4,170.2c-2.5,2.3-5.2,3.3-8.6,2.6-.6-.1-3-4.5-8.9-4.5s-8.3,4.4-8.9,4.5c-3.4.7-6.1-.3-8.6-2.6-4.7-4.3-8.7-10.3-6.3-16.7,1.2-3.4,3.2-7.1,6.9-8.2,3.9-1.2,9.3,0,13.3-.8,1.3-.3,2.7-.7,3.6-1.5.9.8,2.3,1.2,3.6,1.5,3.9.8,9.4-.4,13.3.8,3.6,1.1,5.6,4.8,6.9,8.2,2.4,6.5-1.6,12.4-6.3,16.7M188.1,98c-3.4,8.4-2.1,18.9-2.7,27.7-.5,7.2-2,17.9-8.4,22.5-3.3,2.4-9.2,6.3-13.4,5.2-2.9-.8-3.2-9.2-7.1-12.3-4.4-3.6-9.8-5.1-15.3-4.9-2.4.1-7.2,0-9.1,1.9-2-1.8-6.8-1.8-9.1-1.9-5.5-.2-10.9,1.3-15.3,4.9-3.8,3.1-4.2,11.5-7.1,12.3-4.3,1.1-10.2-2.9-13.4-5.2-6.4-4.6-7.9-15.4-8.4-22.5-.6-8.8.7-19.3-2.7-27.7-1.7,0-.6,16.1-.6,16.1v20.4c0,15.3,9.6,38.2,30.8,46.9,5.2,2.1,16.9,5.6,25.9,5.6s20.7-3.1,25.9-5.3c21.2-8.7,30.7-32,30.8-47.2v-20.4s1.1-16.1-.6-16.1"/>
+                      </g>
+                      <g class="cls-28">
+                        <g id="Color_Hair_Brown" data-name="Color/Hair/Brown">
+                          <g id="Color-2" data-name="Color">
+                            <rect class="cls-11" x="16" y="72" width="264" height="244"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g id="Short-Hair">
+                      <path id="react-path-276" class="cls-16" d="M179.1,39.9c-2.8-2.8-6-5.2-9.1-7.6-.7-.5-1.4-1-2.1-1.6-.2-.1-1.7-1.2-1.9-1.7-.5-1-.2-.2-.1-1.4,0-1.5,3.1-5.7.9-6.7-1-.4-2.8.7-3.8,1.1-1.9.7-3.8,1.4-5.7,1.9.9-1.9,2.7-5.6-.6-4.6-2.6.8-5,2.8-7.6,3.7.9-1.4,4.3-5.8,1.2-6.1-1,0-3.8,1.7-4.9,2.1-3.1,1.2-6.3,1.9-9.6,2.5-11.2,2-24.3,1.4-34.7,6.5-8,3.9-15.9,10-20.5,17.8-4.4,7.5-6.1,15.7-7,24.3-.7,6.3-.7,12.8-.4,19.1.1,2.1.3,11.6,3.3,8.7,1.5-1.4,1.5-7.3,1.9-9.2.8-3.9,1.5-7.8,2.7-11.6,2.2-6.7,4.8-13.8,10.3-18.4,3.5-3,6-6.9,9.4-9.9,1.5-1.3.4-1.2,2.8-1,1.6.1,3.3.2,4.9.2,3.8,0,7.6,0,11.4,0,7.6,0,15.3.1,22.9-.3,3.4-.2,6.8-.3,10.2-.6,1.9-.2,5.2-1.4,6.8-.5,1.4.8,2.9,3.6,3.9,4.7,2.4,2.7,5.3,4.7,8.1,6.9,5.9,4.6,8.9,10.3,10.7,17.5,1.8,7.1,1.3,13.7,3.5,20.8.4,1.2,1.4,3.4,2.7,1.5.2-.4.2-2.3.2-3.4,0-4.5,1.1-7.9,1.1-12.5,0-13.8-.5-31.9-10.8-42.4Z"/>
+                    </g>
+                    <g class="cls-1">
+                      <g id="Skin_-03-Brown-2" data-name="Skin/👶🏽-03-Brown">
+                        <g id="Color-3" data-name="Color">
+                          <rect class="cls-11" x="-1" width="264" height="280"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
