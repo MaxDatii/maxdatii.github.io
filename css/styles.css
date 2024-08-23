@@ -10972,6 +10972,10 @@ html {
   width: 15rem;
 }
 
+.masthead-avatar:hover {
+  content: url('../assets/img/avataaars2.svg'); /* Change the image on hover */
+}
+
 @media (min-width: 992px) {
   .masthead {
     padding-top: calc(6rem + 104px);
