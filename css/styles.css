@@ -11038,3 +11038,8 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.no-gap {
+  margin-bottom: 0;
+  margin-top: 0;
+}
