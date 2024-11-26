@@ -11056,7 +11056,7 @@ html {
 
 .support-buttons img {
   max-width: 100%; /* Ensure buttons scale properly */
-  height: 50px; /* Maintain aspect ratio */
+  height: auto; /* Maintain aspect ratio */
 }
 
 @media (max-width: 576px) {
