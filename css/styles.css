@@ -11043,3 +11043,40 @@ html {
   margin-bottom: 0;
   margin-top: 0;
 }
+
+.support-buttons {
+  text-align: center; /* Center align buttons */
+  margin-top: 20px; /* Add spacing above */
+
+}
+
+.support-buttons a {
+  margin: 5px; /* Space between buttons */
+}
+
+.support-buttons img {
+  max-width: 100%; /* Ensure buttons scale properly */
+  height: 50px; /* Maintain aspect ratio */
+}
+
+@media (max-width: 576px) {
+  .support-buttons img {
+      width: 100%; /* Full width for smaller devices */
+      max-width: 200px; /* Ensure not overly large */
+  }
+}
+
+/* Style for larger screens */
+@media (min-width: 768px) {
+  .footer-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start; /* Adjust alignment as needed */
+      flex-wrap: nowrap; /* Prevent wrapping */
+  }
+  .footer-section {
+      flex: 1; /* Distribute space evenly */
+      margin: 0 10px; /* Add spacing between sections */
+      text-align: center; /* Optional: Align text within sections */
+  }
+}
